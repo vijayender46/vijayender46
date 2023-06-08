@@ -7,7 +7,7 @@ Experienced front-end developer with a passion for crafting engaging user experi
 
 Skills: REACT / NextJs/ JS / HTML / CSS
 
-- 🔭 I’m preparing for my next challange. 
+- 🔭 I’m preparing for my next challenge. 
 
 
 
