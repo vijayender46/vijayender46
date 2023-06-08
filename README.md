@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Experienced front-end developer with a passion for crafting engaging user experiences. Skilled in HTML, CSS, JavaScript, and modern frameworks like React. Proven track record in delivering high-quality, responsive web applications. Strong problem-solving and collaboration abilities. When not coding, you can find me smashing shuttlecocks on the badminton court or hitting boundaries on the cricket field.
 <!--
 **vijayender46/vijayender46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
